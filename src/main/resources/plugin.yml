@@ -1,0 +1,5 @@
+name: NoWeather
+version: 1.0
+#website:
+author: RoboMWM
+main: me.robomwm.NoWeather.Main
